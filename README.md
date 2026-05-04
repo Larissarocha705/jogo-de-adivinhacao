@@ -1,4 +1,3 @@
-# jogo-de-adivinhacao
 
 # 🎯 Jogo de Adivinhação em C
 
