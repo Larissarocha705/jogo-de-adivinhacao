@@ -2,7 +2,6 @@
 # 🎯 Jogo de Adivinhação em C
 
 ## 🖥️ Tela inicial
-<img width="1782" height="818" alt="Captura de tela 2026-05-06 102637.png" src="https://github.com/user-attachments/assets/13ffb858-05e1-4355-a0d3-2101f924e853" />
 
 Captura de tela 2026-05-06 102637.png
 ```c
